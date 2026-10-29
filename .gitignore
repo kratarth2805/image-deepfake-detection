@@ -1,0 +1,16 @@
+venv/
+env/
+__pycache__/
+*.pyc
+dataset/raw/
+dataset/processed/
+*.zip
+*.tar.gz
+models/*.pth
+models/*.pt
+*.pth
+*.pt
+results/*.png
+results/*.csv
+.DS_Store
+Thumbs.db
